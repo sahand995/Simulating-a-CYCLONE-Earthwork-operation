@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\bin\Debug\Sample1.exe.config
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\bin\Debug\Sample1.exe
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\bin\Debug\Sample1.pdb
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\bin\Debug\Simphony.dll
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\bin\Debug\Simphony.xml
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\obj\Debug\Sample1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\obj\Debug\Sample1.csproj.CopyComplete
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\obj\Debug\Sample1.exe
+C:\Users\Asus\Desktop\RRT\Simphony\Sample1\Sample1\obj\Debug\Sample1.pdb
