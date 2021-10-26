@@ -24,7 +24,7 @@ Fig.2 - CYCLONE Model of Earthwork Operation
 | ------------- | ------------- | ------------- |
 | Hauling to Loading Point (minutes)  | 15  | 10 |
 | Loading (minutes)  | 10 | 5 |
-| Haulind to Dump Site (minutes)  | 30 | 20 |
+| Hauling to Dump Site (minutes)  | 30 | 20 |
 | Dumping (minutes)  | 5 | 3 |
 
 # Result
