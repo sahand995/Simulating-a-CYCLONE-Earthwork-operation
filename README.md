@@ -30,17 +30,11 @@ Fig.2 - CYCLONE Model of Earthwork Operation
 # Result
 
 
-</p>
-<p align = "Left">
 * Utilizing 2 Trucks
-</p>
 
 ![2 Trucks](https://user-images.githubusercontent.com/64426415/138893492-f7f83d84-5219-4d86-a2a2-5c2d72735844.JPG)
 
-</p>
-<p align = "Left">
 * Utilizing 4 Trucks
-</p>
 
 ![4 Trucks](https://user-images.githubusercontent.com/64426415/138893503-885dadf6-5a00-40f8-86ea-197f85ccf687.JPG)
 
