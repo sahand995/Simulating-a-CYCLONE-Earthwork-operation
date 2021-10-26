@@ -3,9 +3,20 @@
 I have simulated a CYCLONE Earthwork operation in Simphony Modeling Environment software, consisting the logical sequences of different scenarios to gain insights on how to improve the operations efficiency of the operation, and developing it with C# programming and VB.NET via Simphony.dll.
 
 
-### CYCLONE Model of Earthwork Operation
-![Simphony](https://user-images.githubusercontent.com/64426415/138893513-23929452-83f7-4c0f-aea0-f2f91fb10614.jpg)
+![Earthwork Operation](https://user-images.githubusercontent.com/64426415/138900829-b16caa6c-4ca8-4102-851d-b7c217f290f6.JPG)
+</p>
+<p align = "center">
+Fig.1 - Schematic of Earthwork Operation
+</p>
 
+
+# 
+
+![Simphony](https://user-images.githubusercontent.com/64426415/138893513-23929452-83f7-4c0f-aea0-f2f91fb10614.jpg)
+</p>
+<p align = "center">
+Fig.2 - CYCLONE Model of Earthwork Operation
+</p>
 
 # Assumption
 
@@ -18,11 +29,18 @@ I have simulated a CYCLONE Earthwork operation in Simphony Modeling Environment 
 
 # Result
 
+
+</p>
+<p align = "Left">
 * Utilizing 2 Trucks
+</p>
 
 ![2 Trucks](https://user-images.githubusercontent.com/64426415/138893492-f7f83d84-5219-4d86-a2a2-5c2d72735844.JPG)
 
+</p>
+<p align = "Left">
 * Utilizing 4 Trucks
+</p>
 
 ![4 Trucks](https://user-images.githubusercontent.com/64426415/138893503-885dadf6-5a00-40f8-86ea-197f85ccf687.JPG)
 
