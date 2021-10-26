@@ -22,7 +22,7 @@ Fig.2 - CYCLONE Model of Earthwork Operation
 
 |       #        | Large Truck | Small Truck |
 | ------------- | ------------- | ------------- |
-| Hauling to Loading Point (minutes)  | 15  | 10 |
+| Hauling to Loading Point (minutes)  |  15  | 10 |
 | Loading (minutes)  | 10 | 5 |
 | Hauling to Dump Site (minutes)  | 30 | 20 |
 | Dumping (minutes)  | 5 | 3 |
