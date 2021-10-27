@@ -2,8 +2,10 @@
 
 Simulated a CYCLONE Earthwork operation in Simphony Modeling Environment, consisting of the logical sequences of different scenarios to gain insights on how to improve the operation's efficiency and developing in Unity with C# programming and VB.NET via Simphony.dll.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64426415/138900829-b16caa6c-4ca8-4102-851d-b7c217f290f6.JPG">
+</p>
 
-![Earthwork Operation](https://user-images.githubusercontent.com/64426415/138900829-b16caa6c-4ca8-4102-851d-b7c217f290f6.JPG)
 </p>
 <p align = "center">
 Fig.1 - Schematic of Earthwork Operation
@@ -12,7 +14,10 @@ Fig.1 - Schematic of Earthwork Operation
 
 # 
 
-![Simphony](https://user-images.githubusercontent.com/64426415/138893513-23929452-83f7-4c0f-aea0-f2f91fb10614.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64426415/138893513-23929452-83f7-4c0f-aea0-f2f91fb10614.jpg">
+</p>
+
 </p>
 <p align = "center">
 Fig.2 - CYCLONE Model of Earthwork Operation
