@@ -1,6 +1,6 @@
 # Simulating a CYCLONE Earthwork Operation
 
-I have simulated a CYCLONE Earthwork operation in Simphony Modeling Environment, consisting the logical sequences of different scenarios to gain insights on how to improve the operations efficiency of the operation, and developing it with C# programming and VB.NET via Simphony.dll.
+Simulated a CYCLONE Earthwork operation in Simphony Modeling Environment, consisting of the logical sequences of different scenarios to gain insights on how to improve the operations efficiency and developing in Unity with C# programming and VB.NET via Simphony.dll.
 
 
 ![Earthwork Operation](https://user-images.githubusercontent.com/64426415/138900829-b16caa6c-4ca8-4102-851d-b7c217f290f6.JPG)
