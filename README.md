@@ -1,6 +1,7 @@
 # Simulating a Cyclic Operations Network (CYCLONE) in Unity
 
 I have simulated a CYCLONE in the Simphony Modeling Environment, demonstrating the logical sequences of the different operation scenarios, with the purpose of improving operation's efficiency. 
+
 I have developed this method in Unity, implementing C# programming and VB.NET via Simphony.dll.
 
 <p align="center">
