@@ -5,7 +5,7 @@ I have simulated a CYCLONE in the Simphony Modeling Environment, demonstrating t
 I have developed this method in Unity, implementing C# programming and VB.NET via Simphony.dll.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64426415/138900829-b16caa6c-4ca8-4102-851d-b7c217f290f6.JPG">
+  <img src="https://user-images.githubusercontent.com/64426415/139347727-f6ede3eb-546e-4d1f-8eb5-7b494e5e8ff7.JPG">
 </p>
 
 </p>
@@ -27,11 +27,16 @@ Fig.2 - CYCLONE Model of Earthwork Operation
 
 # Assumption
 
+| # | value |
+| ------------- | ------------- |
+| Loaders available at the loading area | 1 |
+| Spotters available at the dumpsite | 1 |
+
 |       #        | Large Truck | Small Truck |
 | ------------- | ------------- | ------------- |
-| Hauling to Loading Point (minutes)  |  15  | 10 |
+| Hauling to loading area (minutes)  |  15  | 10 |
 | Loading (minutes)  | 10 | 5 |
-| Hauling to Dump Site (minutes)  | 30 | 20 |
+| Hauling to dumpsite (minutes)  | 30 | 20 |
 | Dumping (minutes)  | 5 | 3 |
 
 # Result
